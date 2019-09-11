@@ -1,0 +1,17 @@
+{
+  "requests": [
+    {
+      "features": [
+        {
+          "maxResults": 10,
+          "type": "FACE_DETECTION"
+        }
+      ],
+      "image": {
+        "source": {
+          "imageUri": "gs://lilushivert2/IMG_9065 2.JPG"
+        }
+      }
+    }
+  ]
+}
